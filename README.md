@@ -1,5 +1,5 @@
 # Power_bi_Dio
-
+# Desafio proposto no curso de power BI da plataforma da DIO
 ![image](https://github.com/Igorsmh/Power_bi_Dio/assets/86760061/7afd8aac-6f9a-4854-a4c8-af3f33436167)
 
 
